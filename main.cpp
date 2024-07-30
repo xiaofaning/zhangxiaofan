@@ -14,7 +14,7 @@ int main()
         }
         cout<<endl;
     }
-    int array[2][5]={1,2,3,4,5,1,2,3,4,5};
+    int array[2][5]={1,2,3,4,5,1,2,3,4,5,7};
     cout <<"the number array are:"<<endl;
     int i;
     for(i=0;i<2;i++)
